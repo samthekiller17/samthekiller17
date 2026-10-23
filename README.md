@@ -21,6 +21,7 @@
 ## Proyectos destacados
 
 - 🗓️ **[Parche Dev 2026](https://github.com/samthekiller17/Parche-devRiwi)**: sitio de un encuentro de desarrolladores hecho solo con HTML semántico, con formulario de inscripción y página de confirmación. [Ver sitio publicado](https://samthekiller17.github.io/Parche-devRiwi/).
+- - 🗓️ **[PortafolioPersonal](https://github.com/samthekiller17/PortafolioPersonal)**: Este es mi portafolio personal donde muestro varias cosas de mi. [Ver sitio publicado](https://github.com/samthekiller17/PortafolioPersonal).
 - 🎮 **[NEUROARmobile](https://github.com/samthekiller17/NeuroAR-Mobile)**: Este es un juego Mobile llamado NeuroARmobile, este juego se trata de que estas en unos entornos y delante de estos tienes unos botones; en los diferentes niveles que hay puedes entrenar velocidad, memoria, concentración y otras mas (todavia no esta publicado esta en fase beta).
 
 <p align="center">
